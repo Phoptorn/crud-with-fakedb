@@ -1,0 +1,13 @@
+{
+    "person":[
+        { "username": "user1",
+          "firstname": "firstname1"
+        },
+        { "username": "user2",
+         "firstname": "firstname2"
+        },
+        { "username": "user3",
+         "firstname": "firstname3"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+.GetData, .SearchJSON, .UserFind {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: #A2EEEB;
+}
+
+.ShowInput, .GetOne, .UserGet, .Login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: #27B46E;
+}
